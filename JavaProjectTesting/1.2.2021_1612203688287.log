@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688316</millis>
+  <sequence>0</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>SEVERE</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Top-Level  Error message on console</message>
+</record>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688336</millis>
+  <sequence>1</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>WARNING</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Top Level-2 Warning shows to Administrator</message>
+</record>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688338</millis>
+  <sequence>2</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>INFO</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Top Level-3 shows information on Console </message>
+</record>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688340</millis>
+  <sequence>3</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>SEVERE</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Level.Severe Message </message>
+</record>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688340</millis>
+  <sequence>4</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>INFO</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Level.info messge </message>
+</record>
+<record>
+  <date>2021-02-01T13:21:28</date>
+  <millis>1612203688341</millis>
+  <sequence>5</sequence>
+  <logger>com.batch53.LoggerDemo</logger>
+  <level>WARNING</level>
+  <class>com.batch53.LoggerDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Level.warning message </message>
+</record>
+</log>

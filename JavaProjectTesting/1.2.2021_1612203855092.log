@@ -1,0 +1,14 @@
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+SEVERE: Top-Level  Error message on console
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+WARNING: Top Level-2 Warning shows to Administrator
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+INFO: Top Level-3 shows information on Console 
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+INFO: java.lang.ArithmeticException: / by zero
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+SEVERE: Level.Severe Message 
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+INFO: Level.info messge 
+Feb 01, 2021 1:24:15 PM com.batch53.LoggerDemo main
+WARNING: Level.warning message 
